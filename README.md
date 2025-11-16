@@ -1,7 +1,5 @@
 # 👋 Olá! Eu sou Pablo Sousa Costa
 
-![Profile views](https://komarev.com/ghpvc/?username=pablosscosta)
-
 🎓 Formado em Ciência da Computação pela UFOPA  
 🛠️ Atuo com suporte técnico N1 e N2  
 🚀 Em constante evolução e buscando meu espaço no mercado de tecnologia
