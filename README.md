@@ -1,5 +1,7 @@
 # 👋 Olá! Eu sou Pablo Sousa Costa
 
+![Profile views](https://komarev.com/ghpvc/?username=pablosscosta)
+
 🎓 Formado em Ciência da Computação pela UFOPA  
 🛠️ Atuo com suporte técnico N1 e N2  
 🚀 Em constante evolução e buscando meu espaço no mercado de tecnologia
@@ -25,6 +27,9 @@ Profissional de tecnologia com interesse crescente em qualidade de software, tes
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
 
 ### 🗄️ Bancos de dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -41,6 +46,15 @@ Profissional de tecnologia com interesse crescente em qualidade de software, tes
 
 - [LinkedIn](https://www.linkedin.com/in/pablosilva013/)
 - 📧 Email: pablosousa013@gmail.com
+
+
+## 🌐 Meu Linktree
+
+Acesse meu projeto Linktree hospedado no Netlify:
+
+🔗 [my-linktree-pablosscosta.netlify.app](https://my-linktree-pablosscosta.netlify.app)
+
+Nesta página você encontra meus principais links de contato, além de um portfólio com os projetos já publicados.
 
 ---
 
