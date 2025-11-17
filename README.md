@@ -4,6 +4,10 @@
 🛠️ Atuo com suporte técnico N1 e N2  
 🚀 Em constante evolução e buscando meu espaço no mercado de tecnologia
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablosscosta&layout=compact&langs_count=6&theme=dracula)
+
+
+
 ## 💡 Sobre mim
 
 Profissional de tecnologia com interesse crescente em qualidade de software, testes e análise de requisitos. Possui experiência com suporte técnico N1 e N2, além de projetos independentes com Python (Django) e Java (Spring Boot). Atualmente estudando microsserviços e APIs. Interessado em atuar com QA, automação de testes e análise de requisitos. Aberto a oportunidades em diversas áreas da engenharia e desenvolvimento de software.
@@ -13,6 +17,10 @@ Profissional de tecnologia com interesse crescente em qualidade de software, tes
 ### 💻 Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 
 ### 🧱 Frameworks e bibliotecas
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
