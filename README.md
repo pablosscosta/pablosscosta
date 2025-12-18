@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Pablo Sousa Costa
 
-🎓 Formado em Ciência da Computação pela UFOPA  
+🎓 Formado em Ciência da Computação pela UFOPA (Universidade Federal do Oeste do Pará)  
 🛠️ Atuo com suporte técnico N1 e N2  
 🚀 Em constante evolução e buscando meu espaço no mercado de tecnologia
 
@@ -10,7 +10,7 @@
 
 ## 💡 Sobre mim
 
-Profissional de tecnologia com interesse crescente em qualidade de software, testes e análise de requisitos. Possui experiência com suporte técnico N1 e N2, além de projetos independentes com Python (Django) e Java (Spring Boot). Atualmente estudando microsserviços e APIs. Interessado em atuar com QA, automação de testes e análise de requisitos. Aberto a oportunidades em diversas áreas da engenharia e desenvolvimento de software.
+Profissional de tecnologia com interesse crescente em qualidade de software, testes e análise de requisitos. Possui experiência com suporte técnico N1 e N2, além de projetos independentes com Python (Django) e Java (Spring Boot). Atualmente focado em estudos e aprimoramento na área de desenvolvimento de software.
 
 ## 🧰 Tecnologias e ferramentas
 
@@ -20,12 +20,16 @@ Profissional de tecnologia com interesse crescente em qualidade de software, tes
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+
 
 
 ### 🧱 Frameworks e bibliotecas
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white).
+
 
 ### 🛠️ Ferramentas e DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -35,6 +39,7 @@ Profissional de tecnologia com interesse crescente em qualidade de software, tes
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![GitHub Flow](https://img.shields.io/badge/GitHub%20Flow-181717?style=flat&logo=github&logoColor=white)
 
 
 ### 🗄️ Bancos de dados
@@ -50,8 +55,9 @@ Profissional de tecnologia com interesse crescente em qualidade de software, tes
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/pablosilva013/)
-- 📧 Email: pablosousa013@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pablosilva013/)
+[![Email](https://img.shields.io/badge/Email-Gmail-red?logo=gmail)](mailto:pablosousa013@gmail.com)
+
 
 
 ## 🌐 Meu Linktree
