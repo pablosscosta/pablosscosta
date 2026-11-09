@@ -10,7 +10,9 @@
 
 ## 💡 Sobre mim
 
-Profissional de tecnologia com interesse crescente em qualidade de software, testes e análise de requisitos. Possui experiência com suporte técnico N1 e N2, além de projetos independentes com Python (Django) e Java (Spring Boot). Atualmente focado em estudos e aprimoramento na área de desenvolvimento de software.
+Bacharel em Ciência da Computação pela UFOPA, atuo como Desenvolvedor Backend em regime remoto, trabalhando com Ruby on Rails no desenvolvimento, manutenção e evolução de sistemas. Tenho experiência com desenvolvimento de APIs, bancos de dados relacionais, integração de sistemas e resolução de problemas. Também possuo conhecimentos em Python, Django e Java, além de experiência anterior com suporte técnico e infraestrutura de TI.
+
+Estou sempre buscando aprimorar minhas habilidades e desenvolver soluções que contribuam para a evolução dos projetos em que atuo.
 
 ## 🧰 Tecnologias e ferramentas
 
