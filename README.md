@@ -1,10 +1,10 @@
 # 👋 Olá! Eu sou Pablo Sousa Costa
 
 🎓 Formado em Ciência da Computação pela UFOPA (Universidade Federal do Oeste do Pará)  
-🛠️ Atuo com suporte técnico N1 e N2  
-🚀 Em constante evolução e buscando meu espaço no mercado de tecnologia
+🛠️ Experiência com suporte técnico N1 e N2  
+💻 Desenvolvedor Backend com foco em Ruby on Rails
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablosscosta&layout=compact&langs_count=6&theme=dracula)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=pablosscosta&layout=compact&langs_count=6&theme=dracula)
 
 
 
@@ -15,6 +15,7 @@ Profissional de tecnologia com interesse crescente em qualidade de software, tes
 ## 🧰 Tecnologias e ferramentas
 
 ### 💻 Linguagens
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -25,6 +26,7 @@ Profissional de tecnologia com interesse crescente em qualidade de software, tes
 
 
 ### 🧱 Frameworks e bibliotecas
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
@@ -35,6 +37,8 @@ Profissional de tecnologia com interesse crescente em qualidade de software, tes
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -47,10 +51,6 @@ Profissional de tecnologia com interesse crescente em qualidade de software, tes
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### 📚 Estudando atualmente
-- Microsserviços
-- APIs REST
-- Automação de testes
 
 
 ## 📫 Contato
